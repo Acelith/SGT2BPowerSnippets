@@ -7,6 +7,6 @@ Questo spazio è stato creato per fornire agli studenti una risorsa interna in c
 
  ↳ Linguaggio/materia: [Nome Linguaggio]
 
-    ↳ Argomento: [Nome Argomento]
+   ↳ Argomento: [Nome Argomento]
 
   ​    ↳ File/Progetto: [Nome Progetto/file]-[nome.cognome]
