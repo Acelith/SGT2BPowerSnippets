@@ -5,8 +5,8 @@ Questo spazio è stato creato per fornire agli studenti una risorsa interna in c
 
 ## Struttura da seguire:
 
-↳ Linguaggio/materia: [Nome Linguaggio]
+ ↳ Linguaggio/materia: [Nome Linguaggio]
 
-  ↳ Argomento: [Nome Argomento]
+    ↳ Argomento: [Nome Argomento]
 
-​    ↳ File/Progetto: [Nome Progetto/file]-[nome.cognome]
+  ​    ↳ File/Progetto: [Nome Progetto/file]-[nome.cognome]
