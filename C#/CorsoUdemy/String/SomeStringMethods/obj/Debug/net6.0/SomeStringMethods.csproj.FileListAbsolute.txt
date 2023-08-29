@@ -1,0 +1,14 @@
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\bin\Debug\net6.0\SomeStringMethods.exe
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\bin\Debug\net6.0\SomeStringMethods.deps.json
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\bin\Debug\net6.0\SomeStringMethods.runtimeconfig.json
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\bin\Debug\net6.0\SomeStringMethods.dll
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\bin\Debug\net6.0\SomeStringMethods.pdb
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.AssemblyInfoInputs.cache
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.AssemblyInfo.cs
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.dll
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\refint\SomeStringMethods.dll
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.pdb
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\SomeStringMethods.genruntimeconfig.cache
+C:\Users\simob\OneDrive\Documenti\Scuola\Progetti\Visual Studio 2022\udemy\C#\repos\SomeStringMethods\SomeStringMethods\obj\Debug\net6.0\ref\SomeStringMethods.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WriteLine_PrintF/1.0.0": {
+        "runtime": {
+          "WriteLine_PrintF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WriteLine_PrintF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

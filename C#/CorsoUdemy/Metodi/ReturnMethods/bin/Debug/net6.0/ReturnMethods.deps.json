@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReturnMethods/1.0.0": {
+        "runtime": {
+          "ReturnMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReturnMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
